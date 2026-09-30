@@ -1,0 +1,9 @@
+-- EC_IT143_W4.2_soccer_s2_hs.sql
+-- Step 2: Begin creating an answer
+-- Answer path:
+-- 1. Group SoccerPlayers by TeamID.
+-- 2. Count the players in each group.
+-- 3. Join the result to SoccerTeams so the team name is displayed.
+-- 4. Turn the query into a reusable view.
+-- 5. Store the result in SoccerPlayerCount.
+-- 6. Reload the table through a stored procedure.

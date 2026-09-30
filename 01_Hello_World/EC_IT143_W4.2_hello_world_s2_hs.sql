@@ -1,0 +1,9 @@
+-- EC_IT143_W4.2_hello_world_s2_hs.sql
+-- Step 2: Begin creating an answer
+-- Current answer path:
+-- 1. Create a simple SQL query that returns the message.
+-- 2. Turn the query into a view.
+-- 3. Turn the view into a table.
+-- 4. Load the table from the view.
+-- 5. Turn the load script into a stored procedure.
+-- 6. Call the stored procedure.

@@ -1,0 +1,4 @@
+-- EC_IT143_W4.2_hello_world_s1_hs.sql
+-- Step 1: Start with a question
+-- Question: What message should this simple example return?
+-- Purpose: Define the simplest possible question for the Hello World exercise.

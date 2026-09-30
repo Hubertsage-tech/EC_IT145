@@ -1,0 +1,4 @@
+-- EC_IT143_W4.2_soccer_s1_hs.sql
+-- Step 1: Start with a question
+-- Question: How many players are on each soccer team?
+-- Purpose: Count the players associated with each soccer team.
